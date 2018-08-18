@@ -6,7 +6,7 @@ The Myers-Briggs Indicator takes into accout four axes:
 * __T__ hinking <-> __F__ eeling
 * __J__ udging <-> __P__ erceiving
 
-![Briggs-Myers Personality Types of GOT Characters]('images/analysis.png')
+![Briggs-Myers Personality Types of GOT Characters](images/analysis.png)
 
 * Arya: ESxx - can be Provider, Supervisor, Performer, Provider
 * Bran: INTP -Architect
