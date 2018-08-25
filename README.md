@@ -28,5 +28,6 @@ Of course, there are plenty of people who have actually watched GOT and wrote ar
 * Tyrion: ESFJ -Provider (ENFP on the internet)
 
 ## Conclusions
-One can use indirect sources to do psychological portraits: we were able to assign 28 out of 36 labels, about 77%. 21 out of these 28 tags semm to be correctly assigned, which provide an accuracy of 75%. We were able to classify the extraversion vs introversion and the sensing vs intuition for each character with 87.5% accuracy with 88% accuracy on the former. The other two dimensions, thinking vs feeling and judging vs perceiving were harder to solve; for almost half of the characters, we were not able to provide an answer and the precision was only slightly greater than guessing (60% for each of the axes).
-In discuttions about GOT, I will say that Bran is my favourite character because I am an INTP myself. A more techical conclusion is that Naive Bayes features really work.
+One can use indirect sources to do psychological portraits: I was able to assign 28 out of 36 labels, about 77%. 21 out of these 28 tags seem to be correctly assigned, which provide an accuracy of 75%. I was able to classify the _extraversion vs introversion_ and the _sensing vs intuition_ for each character with 87.5% accuracy, with 88% accuracy on the former. The other two dimensions, _thinking vs feeling_ and _judging vs perceiving_ were harder to solve; for almost half of the characters, I was not able to provide an answer and the precision was only slightly greater than guessing (60% for each of the axes).
+
+In discutions about GOT, I will say that Bran is my favourite character because I am an INTP myself. A more techical conclusion is that Naive Bayes features really works.
